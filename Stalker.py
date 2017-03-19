@@ -1,6 +1,6 @@
 import bs4 as bs
-import requests
-from requests.exceptions import HTTPError
+#import requests
+#from requests.exceptions import HTTPError
 import dryscrape
 import time
 from collections import Counter
