@@ -1,7 +1,7 @@
 from Stalker import *
 import sys
 
-
+#run it from the comand line as: python3 test.py *fb username* *fb password*
 a = Stalker()
 
 print("login in to facebook")
